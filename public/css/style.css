@@ -313,12 +313,15 @@ header .intro-text {
   background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
   color: #fff;
 }
+
 #services .service-desc {
   margin: 10px 10px 20px;
 }
+
 #services h2 {
   color: #fff;
 }
+
 #services .section-title h2::after {
   position: absolute;
   content: "";
@@ -329,40 +332,56 @@ header .intro-text {
   margin-left: -30px;
   left: 50%;
 }
-#services i.fa {
-  font-size: 42px;
-  width: 120px;
-  height: 120px;
-  padding: 40px 0;
-  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
-  border-radius: 50%;
-  color: #fff;
-  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
-}
+
+
 #services h3 {
   font-weight: 500;
   padding: 5px 0;
   color: #fff;
 }
+
 #services p {
   color: rgba(255, 255, 255, 0.75);
 }
+
 #services .service-desc {
   margin-bottom: 40px;
 }
+
+#services img.service-icon {
+  width: 130px;
+  height: 130px;
+  padding: 40px;
+  background: linear-gradient(to right, #6372ff 0%, #5ca9fb 100%);
+  border-radius: 35%;
+  object-fit: cover;  /* Esto asegura que la imagen se recorte adecuadamente dentro del círculo */
+  box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.05);
+}
+
+
 /* Portfolio Section */
 #portfolio {
   padding: 100px 0;
 }
+
 .portfolio-item {
   margin: 1px -15px 0 -14px;
   padding: 0;
 }
+
+/* Asegura que todas las imágenes tengan el mismo tamaño */
+.portfolio-item img {
+  width: 100%;  /* Ajusta al 100% del contenedor */
+  height: 200px;  /* Fija una altura */
+  object-fit: cover;  /* Asegura que la imagen se recorte si es necesario */
+}
+
 .portfolio-item .hover-bg {
   overflow: hidden;
   position: relative;
   margin: 0;
 }
+
 .hover-bg .hover-text {
   position: absolute;
   text-align: center;
@@ -379,6 +398,7 @@ header .intro-text {
   opacity: 0;
   transition: all 0.5s;
 }
+
 .hover-bg .hover-text > h4 {
   opacity: 0;
   color: #fff;
@@ -390,15 +410,19 @@ header .intro-text {
   font-weight: 500;
   text-transform: uppercase;
 }
+
 .hover-bg:hover .hover-text > h4 {
   opacity: 1;
   -webkit-backface-visibility: hidden;
   -webkit-transform: translateY(0);
   transform: translateY(0);
 }
+
 .hover-bg:hover .hover-text {
   opacity: 1;
 }
+
+
 /* Testimonials Section */
 #testimonials {
   padding: 100px 0;

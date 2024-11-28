@@ -1,101 +1,90 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "Bienvenidos a Cialbus",
+    "paragraph": "Disfruta de un servicio de transporte cómodo y seguro, con rutas exclusivas y buses de última generación. Viaja con nosotros y vive la experiencia del transporte de calidad."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "En Cialbus, somos una empresa innovadora y dinámica dedicada al transporte de pasajeros y carga. Nos enfocamos en ofrecer soluciones eficientes y personalizadas para cada uno de nuestros clientes, operando con un compromiso total hacia la calidad, la seguridad y el confort en cada trayecto. Nuestras rutas están diseñadas para garantizar una experiencia única en cada viaje.",
     "Why": [
-      "Lorem ipsum dolor",
-      "Tempor incididunt",
-      "Lorem ipsum dolor",
-      "Incididunt ut labore"
+      "Rutas exclusivas",
+      "Compromiso ambiental",
+      "Precios competitivos",
+      "Innovación continua"
     ],
     "Why2": [
-      "Aliquip ex ea commodo",
-      "Lorem ipsum dolor",
-      "Exercitation ullamco",
-      "Lorem ipsum dolor"
+      "Experiencia comprobada",
+      "Puntualidad garantizada",
+      "Flota moderna",
+      "Atención"
     ]
   },
   "Gallery": [
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/01-large.jpg",
-      "smallImage": "img/portfolio/01-small.jpg"
+      "title": "Casma",
+      "largeImage": "img/Destinos/53852521_2248139588732067_4357899068081438720_n.jpg",
+      "smallImage": "img/Destinos/53852521_2248139588732067_4357899068081438720_n.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/02-large.jpg",
-      "smallImage": "img/portfolio/02-small.jpg"
+      "title": "Nuevo Chimote",
+      "largeImage": "img/Destinos/106903742_672052836709443_3544613678012412262_n.png",
+      "smallImage": "img/Destinos/106903742_672052836709443_3544613678012412262_n.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/03-large.jpg",
-      "smallImage": "img/portfolio/03-small.jpg"
+      "title": "Lima",
+      "largeImage": "img/Destinos/218653682_555748688763908_6210137601130260049_n.jpg",
+      "smallImage": "img/Destinos/218653682_555748688763908_6210137601130260049_n.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/04-large.jpg",
-      "smallImage": "img/portfolio/04-small.jpg"
+      "title": "Huarmey",
+      "largeImage": "img/Destinos/center_13.jpg",
+      "smallImage": "img/Destinos/center_13.jpg"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/05-large.jpg",
-      "smallImage": "img/portfolio/05-small.jpg"
+      "title": "Casma",
+      "largeImage": "img/Destinos/Layer 2.png",
+      "smallImage": "img/Destinos/Layer 2.png"
     },
     {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/06-large.jpg",
-      "smallImage": "img/portfolio/06-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/07-large.jpg",
-      "smallImage": "img/portfolio/07-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/08-large.jpg",
-      "smallImage": "img/portfolio/08-small.jpg"
-    },
-    {
-      "title": "Project Title",
-      "largeImage": "img/portfolio/09-large.jpg",
-      "smallImage": "img/portfolio/09-small.jpg"
+      "title": "CialBus",
+      "largeImage": "img/372497217355180.png",
+      "smallImage": "img/372497217355180.png"
     }
   ],
   "Services": [
-    {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    }
+  {
+    "icon": "img/servis/monitor-hd.png",
+    
+    "name": "Cine a Bordo",
+    "text": "Disfruta de películas y entretenimiento durante tu viaje con nuestro sistema de cine a bordo."
+  },
+  {
+     "icon": "img/servis/cable-usb.png", 
+    "name": "Conexión USB",
+    "text": "Mantén tus dispositivos cargados con puertos USB disponibles en cada asiento."
+  },
+  {
+    "icon": "img/servis/localizacion.png", 
+    "name": "Ubicación con GPS",
+    "text": "Siempre sabrás tu ubicación en tiempo real gracias a nuestro sistema de GPS integrado."
+  },
+  {
+    "icon": "img/servis/asiento.png", 
+    "name": "Asientos Confortables",
+    "text": "Disfruta de asientos de bus cama y semicama diseñados para tu comodidad durante el viaje."
+  },
+  {
+    "icon": "img/servis/bano.png", 
+    "name": "Servicios Higiénicos",
+    "text": "Mantén la comodidad con nuestros servicios higiénicos a bordo."
+  },
+  {
+    "icon": "img/servis/aislado.png", 
+    "name": "Regulación de Temperatura",
+    "text": "Controla la temperatura a tu gusto gracias a nuestros sistemas de aire acondicionado."
+  }
+
+
+
   ],
   "Testimonials": [
     {
@@ -129,28 +118,7 @@
       "name": "Johnathan Doe"
     }
   ],
-  "Team": [
-    {
-      "img": "img/team/01.jpg",
-      "name": "John Doe",
-      "job": "Director"
-    },
-    {
-      "img": "img/team/02.jpg",
-      "name": "Mike Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/03.jpg",
-      "name": "Jane Doe",
-      "job": "Senior Designer"
-    },
-    {
-      "img": "img/team/04.jpg",
-      "name": "Karen Doe",
-      "job": "Project Manager"
-    }
-  ],
+  
   "Contact": {
     "address": "4321 California St, San Francisco, CA 12345 ",
     "phone": "+1 123 456 1234",

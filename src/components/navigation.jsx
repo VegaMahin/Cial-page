@@ -11,15 +11,16 @@ export const Navigation = (props) => {
             data-toggle="collapse"
             data-target="#bs-example-navbar-collapse-1"
           >
-            {" "}
-            <span className="sr-only">Toggle navigation</span>{" "}
+            {" "} 
+            <span className="sr-only">Toggle navigatisdsdson</span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
             <span className="icon-bar"></span>{" "}
           </button>
-          <a className="navbar-brand page-scroll" href="#page-top">
-            React Landing Page
-          </a>{" "}
+          <a className="navbar-brand page-scroll" href="#page-top" style={{ display: 'flex', alignItems: 'flex-start' }}>
+  <img src="/img/WhatsApp Image 2024-11-13 at 2.04.24 PM.jpeg" alt="Logo" style={{ maxHeight: '50px', marginTop: '-20px' }} />
+</a>
+
         </div>
 
         <div
@@ -29,27 +30,27 @@ export const Navigation = (props) => {
           <ul className="nav navbar-nav navbar-right">
             <li>
               <a href="#about" className="page-scroll">
-                About
+                Acerca Nosotros
               </a>
             </li>
             <li>
               <a href="#services" className="page-scroll">
-                Services
+                Servicios
               </a>
             </li>
             <li>
               <a href="#portfolio" className="page-scroll">
-                Gallery
+                Destinos
               </a>
             </li>
             <li>
               <a href="#testimonials" className="page-scroll">
-                Testimonials
+                Terminales
               </a>
             </li>
             <li>
               <a href="#contact" className="page-scroll">
-                Contact
+                Contactos
               </a>
             </li>
           </ul>

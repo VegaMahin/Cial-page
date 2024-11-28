@@ -6,10 +6,9 @@ export const Gallery = (props) => {
     <div id="portfolio" className="text-center">
       <div className="container">
         <div className="section-title">
-          <h2>Gallery</h2>
+          <h2>Destinos</h2>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
+          Descubre los hermosos destinos que Cialbus tiene para ti. Desde la historia y cultura de Casma, pasando por la modernidad de Nuevo Chimbote hasta la vibrante Lima, cada ciudad te ofrece una experiencia única. Viaja con comodidad y seguridad a estos destinos y más.
           </p>
         </div>
         <div className="row">
