@@ -2,6 +2,7 @@ import { useState } from "react";
 import emailjs from "emailjs-com";
 import React from "react";
 
+
 const initialState = {
   name: "",
   email: "",
@@ -125,6 +126,24 @@ export const Contact = (props) => {
                 </span>{" "}
                 {props.data ? props.data.email : "loading"}
               </p>
+            </div>
+          </div>
+          <div className="col-md-12">
+            <div className="row">
+              <div className="social">
+                <ul>
+                  <li>
+                    <a
+                      href="https://www.facebook.com/p/Cial-Bus-100055117009987/?locale=es_LA"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      <i className="fa fa-facebook"></i>
+                    </a>
+                  </li>
+               
+                </ul>
+              </div>
             </div>
           </div>
         </div>

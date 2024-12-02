@@ -1,7 +1,5 @@
 {
   "Header": {
-    "title": "Bienvenidos a Cialbus",
-    "paragraph": "Disfruta de un servicio de transporte cómodo y seguro, con rutas exclusivas y buses de última generación. Viaja con nosotros y vive la experiencia del transporte de calidad."
   },
   "About": {
     "paragraph": "En Cialbus, somos una empresa innovadora y dinámica dedicada al transporte de pasajeros y carga. Nos enfocamos en ofrecer soluciones eficientes y personalizadas para cada uno de nuestros clientes, operando con un compromiso total hacia la calidad, la seguridad y el confort en cada trayecto. Nuestras rutas están diseñadas para garantizar una experiencia única en cada viaje.",
@@ -25,7 +23,7 @@
       "smallImage": "img/Destinos/53852521_2248139588732067_4357899068081438720_n.jpg"
     },
     {
-      "title": "Nuevo Chimote",
+      "title": "Nuevo Chimbote",
       "largeImage": "img/Destinos/106903742_672052836709443_3544613678012412262_n.png",
       "smallImage": "img/Destinos/106903742_672052836709443_3544613678012412262_n.png"
     },
@@ -88,41 +86,21 @@
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "img": "img/terminal/5Z6G3GB4S5GAHOOVPFXON3URBQ.jpg",
+      "text": "Terminal El Chimbador Stand F-33, Teléfono: 908818104",
+      "name": "OFICINA CHIMBOTE"
     },
     {
-      "img": "img/testimonials/02.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/03.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/04.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
-    },
-    {
-      "img": "img/testimonials/05.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
-    },
-    {
-      "img": "img/testimonials/06.jpg",
-      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "img": "img/terminal/UV37TN4PUNHNBOOK4ZXSRPWVWI.jpg",
+      "text": "Terminal Lima, Av. Ejemplo 123, Teléfono: 999888777",
+      "name": "OFICINA LIMA"
     }
   ],
   
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
+    "address": "AV.GERARDO UNGER 6911",
+    "phone": "+51 968 270 215",
+    "email": "TRANSPORTESCIALSAC@GMAIL.COM",
     "facebook": "fb.com",
     "twitter": "twitter.com",
     "youtube": "youtube.com"

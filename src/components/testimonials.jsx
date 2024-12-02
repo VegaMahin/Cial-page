@@ -3,28 +3,23 @@ import React from "react";
 export const Testimonials = (props) => {
   return (
     <div id="testimonials">
-      <div className="container">
-        <div className="section-title text-center">
-          <h2>TERMINALES</h2>
-        </div>
-        <div className="row">
-          {props.data
-            ? props.data.map((d, i) => (
-                <div key={`${d.name}-${i}`} className="col-md-4">
-                  <div className="testimonial">
-                    <div className="testimonial-image">
-                      {" "}
-                      <img src={d.img} alt="" />{" "}
-                    </div>
-                    <div className="testimonial-content">
-                      <p>"{d.text}"</p>
-                      <div className="testimonial-meta"> - {d.name} </div>
-                    </div>
-                  </div>
+      <div className="section-title">
+        <h2>TERMINALES</h2>
+      </div>
+      <div className="testimonial-wrapper">
+        {props.data
+          ? props.data.map((d, i) => (
+              <div key={`${d.name}-${i}`} className="testimonial">
+                <div className="testimonial-image">
+                  <img src={d.img} alt={d.name} />
                 </div>
-              ))
-            : "loading"}
-        </div>
+                <div className="testimonial-content">
+                  <div className="testimonial-meta">{d.name}</div>
+                  <p>{d.text}</p>
+                </div>
+              </div>
+            ))
+          : "Cargando datos..."}
       </div>
     </div>
   );
